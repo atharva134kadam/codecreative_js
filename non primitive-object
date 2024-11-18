@@ -1,0 +1,8 @@
+const item=
+{
+    "soap":10,
+    "shampoo":20,
+    "cleaner":30,
+}
+
+console.log(item["soap"])
